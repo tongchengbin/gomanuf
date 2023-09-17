@@ -1,4 +1,4 @@
-module gomanuf
+module github.com/tongchengbin/gomanuf
 
 go 1.20
 
